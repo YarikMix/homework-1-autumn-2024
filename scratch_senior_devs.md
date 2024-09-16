@@ -1,8 +1,8 @@
 # Тестовые отчеты по функциям
 
 - [Авторизация и регистрация](/features/registration/README.md)
-- Главная
-- Редактор
+- [Главная](/features/home/README.md)
+- [Редактор](/features/editor/README.md)
 - Вложения
 - Подзаметки
 - Теги
