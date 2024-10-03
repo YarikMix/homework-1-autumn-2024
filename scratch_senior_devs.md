@@ -1,11 +1,11 @@
 # Тестовые отчеты по функциям
 
-- Авторизация и регистрация
-- Главная
-- Редактор
-- Вложения
+- [Авторизация и регистрация](/features/registration/README.md)
+- [Главная](/features/home/README.md)
+- [Редактор](/features/editor/README.md)
+- [Вложения](features/attachments/README.md)
 - Подзаметки
-- Теги
+- [Теги](/features/tags/README.md)
 - Избранное
 - Визуал
 - Шеринг заметки
