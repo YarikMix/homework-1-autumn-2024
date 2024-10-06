@@ -7,6 +7,6 @@
 - [Подзаметки](/features/subnotes/README.md)
 - [Теги](/features/tags/README.md)
 - [Избранное](/features/favorites/README.md)
-- Шеринг заметки
+- [Шеринг заметки](/features/share/README.md)
 - Совместное редактирование
-- Экспорт заметки
+- [Экспорт заметки](/features/export/README.md)
