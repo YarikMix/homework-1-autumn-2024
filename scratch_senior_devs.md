@@ -4,10 +4,9 @@
 - [Главная](/features/home/README.md)
 - [Редактор](/features/editor/README.md)
 - [Вложения](features/attachments/README.md)
-- Подзаметки
+- [Подзаметки](/features/subnotes/README.md)
 - [Теги](/features/tags/README.md)
-- Избранное
-- Визуал
+- [Избранное](/features/favorites/README.md)
 - Шеринг заметки
 - Совместное редактирование
 - Экспорт заметки
